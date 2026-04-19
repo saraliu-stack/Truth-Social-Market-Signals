@@ -23,6 +23,11 @@ Sample period:
 
 ---
 
+# Example Result 
+<img width="1400" height="865" alt="image" src="https://github.com/user-attachments/assets/5320a3e6-710a-46a4-bbab-8ec99fa2d76f" />
+
+---
+
 # Research Question
 
 Can Truth Social activity generate useful trading signals?
