@@ -244,3 +244,31 @@ truth-social-market-backtest/
 │   ├── figures/
 │   └── tables/
 └── .gitignore
+```
+
+---
+
+# How to Run
+
+install.packages(c(
+  "tidyverse",
+  "quantmod",
+  "xts",
+  "zoo",
+  "tidytext",
+  "lubridate"
+))
+
+source("analysis/truth_social_market_model.R")
+
+---
+
+# Disclaimer
+
+This project is for educational and research purposes only. It is not investment advice.
+
+---
+
+# Author
+
+Sara Liu
